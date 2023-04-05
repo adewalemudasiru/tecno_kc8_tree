@@ -139,3 +139,19 @@ TW_NO_HAPTICS := true
 TW_Y_OFFSET := 70
 TW_H_OFFSET := -70
 TW_DEVICE_VERSION := Whale (techsbyte.com)
+
+# SHRP Configuration
+SHRP_PATH := $(DEVICE_PATH)
+SHRP_MAINTAINER := Whale (techsbyte.com)
+SHRP_DEVICE_CODE := KC8
+SHRP_REC_TYPE := Treble
+SHRP_DEVICE_TYPE := A_Only
+
+SHRP_EXTERNAL := /external_sd
+SHRP_INTERNAL := /sdcard
+SHRP_OTG := /usbotg
+SHRP_REC := /dev/block/by-name/recovery
+
+# Theme SHRP
+SHRP_EXPRESS := true
+SHRP_DARK := true
