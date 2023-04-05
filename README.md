@@ -1,4 +1,4 @@
-# Android device tree for TECNO TECNO KC8 (TECNO-KC8)
+# Android device tree for TECNO SPARK 4 (TECNO-KC8)
 
 # Tecno Spark 4 Specifications
 
